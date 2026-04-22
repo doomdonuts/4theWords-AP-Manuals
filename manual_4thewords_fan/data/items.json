@@ -1,0 +1,194 @@
+[
+   {
+      "count":1,
+      "name":"Glitch 101",
+      "category":[
+         "Monsters"
+      ],
+      "progression":true
+   },
+   {
+      "count":1,
+      "name":"Glitch 102",
+      "category":[
+         "Monsters"
+      ],
+      "progression":true
+   },
+   {
+      "count":1,
+      "name":"Glitch 103",
+      "category":[
+         "Monsters"
+      ],
+      "progression":true
+   },
+   {
+      "count":1,
+      "name":"Glitch 201",
+      "category":[
+         "Monsters"
+      ],
+      "progression":true
+   },
+   {
+      "count":1,
+      "name":"Glitch 202",
+      "category":[
+         "Monsters"
+      ],
+      "progression":true
+   },
+   {
+      "count":1,
+      "name":"Glitch 203",
+      "category":[
+         "Monsters"
+      ],
+      "progression":true
+   },
+   {
+      "count":1,
+      "name":"Glitch 301",
+      "category":[
+         "Monsters"
+      ],
+      "progression":true
+   },
+   {
+      "count":1,
+      "name":"Glitch 302",
+      "category":[
+         "Monsters"
+      ],
+      "progression":true
+   },
+   {
+      "count":1,
+      "name":"Glitch 303",
+      "category":[
+         "Monsters"
+      ],
+      "progression":true
+   },
+   {
+      "count":9,
+      "name":"Progressive Hunter Badge",
+      "category":[
+         "Badges"
+      ],
+      "progression":true
+   },
+   {
+      "count":1,
+      "name":"The Great Glitch Game (2/3)",
+      "category":[
+         "Quest Unlocks"
+      ],
+      "progression":true
+   },
+   {
+      "count":1,
+      "name":"The Great Glitch Game (3/3)",
+      "category":[
+         "Quest Unlocks"
+      ],
+      "progression":true
+   },
+   {
+      "count":1,
+      "name":"Hunter's Trophy",
+      "category":[
+         "Trophies"
+      ],
+      "progression":true
+   },
+   {
+      "count":7,
+      "name":"Adventurer's Token",
+      "category":[
+         "Trophies"
+      ],
+      "progression":true
+   },
+   {
+      "count":"10",
+      "name":"Fire Grenade",
+      "category":[
+         "Potions"
+      ],
+      "useful":true
+   },
+   {
+      "count":"5",
+      "name":"Flame Grenade Potion",
+      "category":[
+         "Potions"
+      ],
+      "useful":true
+   },
+   {
+      "count":"3",
+      "name":"Blast Potion",
+      "category":[
+         "Potions"
+      ],
+      "useful":true
+   },
+      {
+      "count":"10",
+      "name":"Time Dilation Pop",
+      "category":[
+         "Potions"
+      ],
+      "useful":true
+   },
+   {
+      "count":"5",
+      "name":"Time Rupture Grenade",
+      "category":[
+         "Potions"
+      ],
+      "useful":true
+   },
+   {
+      "count":"3",
+      "name":"Time Fissure Blast",
+      "category":[
+         "Potions"
+      ],
+      "useful":true
+   },
+      {
+      "count":"10",
+      "name":"Lucky Shards Potion",
+      "category":[
+         "Potions"
+      ],
+      "useful":true
+   },
+   {
+      "count":"5",
+      "name":"Lucky Grenade Potion",
+      "category":[
+         "Potions"
+      ],
+      "useful":true
+   },
+   {
+      "count":"3",
+      "name":"Lucky Gemstone Potion",
+      "category":[
+         "Potions"
+      ],
+      "useful":true
+   },
+   {
+      "count":"5",
+      "name":"Freeze Potion",
+      "category":[
+         "Potions"
+      ],
+      "useful":true
+   }
+]

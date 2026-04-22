@@ -1,0 +1,968 @@
+[
+   {
+      "name":"Kill 1 Monster",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 0"
+      ],
+      "requires":""
+   },
+   {
+      "name":"Kill 2 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 0"
+      ],
+      "requires":""
+   },
+   {
+      "name":"Kill 3 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 0"
+      ],
+      "requires":""
+   },
+   {
+      "name":"Kill 4 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 0"
+      ],
+      "requires":""
+   },
+   {
+      "name":"Kill 5 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 0"
+      ],
+      "requires":""
+   },
+   {
+      "name":"Kill 6 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 0"
+      ],
+      "requires":""
+   },
+   {
+      "name":"Kill 7 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 0"
+      ],
+      "requires":""
+   },
+   {
+      "name":"Kill 8 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 0"
+      ],
+      "requires":""
+   },
+   {
+      "name":"Kill 9 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 0"
+      ],
+      "requires":""
+   },
+   {
+      "name":"Kill 10 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 1"
+      ],
+      "requires":"|Progressive Hunter Badge|"
+   },
+   {
+      "name":"Kill 11 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 1"
+      ],
+      "requires":"|Progressive Hunter Badge|"
+   },
+   {
+      "name":"Kill 12 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 1"
+      ],
+      "requires":"|Progressive Hunter Badge|"
+   },
+   {
+      "name":"Kill 13 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 1"
+      ],
+      "requires":"|Progressive Hunter Badge|"
+   },
+   {
+      "name":"Kill 14 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 1"
+      ],
+      "requires":"|Progressive Hunter Badge|"
+   },
+   {
+      "name":"Kill 15 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 1"
+      ],
+      "requires":"|Progressive Hunter Badge|"
+   },
+   {
+      "name":"Kill 16 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 1"
+      ],
+      "requires":"|Progressive Hunter Badge|"
+   },
+   {
+      "name":"Kill 17 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 1"
+      ],
+      "requires":"|Progressive Hunter Badge|"
+   },
+   {
+      "name":"Kill 18 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 1"
+      ],
+      "requires":"|Progressive Hunter Badge|"
+   },
+   {
+      "name":"Kill 19 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 1"
+      ],
+      "requires":"|Progressive Hunter Badge|"
+   },
+   {
+      "name":"Kill 20 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 2"
+      ],
+      "requires":"|Progressive Hunter Badge: 2|"
+   },
+   {
+      "name":"Kill 21 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 2"
+      ],
+      "requires":"|Progressive Hunter Badge: 2|"
+   },
+   {
+      "name":"Kill 22 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 2"
+      ],
+      "requires":"|Progressive Hunter Badge: 2|"
+   },
+   {
+      "name":"Kill 23 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 2"
+      ],
+      "requires":"|Progressive Hunter Badge: 2|"
+   },
+   {
+      "name":"Kill 24 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 2"
+      ],
+      "requires":"|Progressive Hunter Badge: 2|"
+   },
+   {
+      "name":"Kill 25 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 2"
+      ],
+      "requires":"|Progressive Hunter Badge: 2|"
+   },
+   {
+      "name":"Kill 26 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 2"
+      ],
+      "requires":"|Progressive Hunter Badge: 2|"
+   },
+   {
+      "name":"Kill 27 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 2"
+      ],
+      "requires":"|Progressive Hunter Badge: 2|"
+   },
+   {
+      "name":"Kill 28 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 2"
+      ],
+      "requires":"|Progressive Hunter Badge: 2|"
+   },
+   {
+      "name":"Kill 29 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 2"
+      ],
+      "requires":"|Progressive Hunter Badge: 2|"
+   },
+   {
+      "name":"Kill 30 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 3"
+      ],
+      "requires":"|Progressive Hunter Badge: 3|"
+   },
+   {
+      "name":"Kill 31 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 3"
+      ],
+      "requires":"|Progressive Hunter Badge: 3|"
+   },
+   {
+      "name":"Kill 32 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 3"
+      ],
+      "requires":"|Progressive Hunter Badge: 3|"
+   },
+   {
+      "name":"Kill 33 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 3"
+      ],
+      "requires":"|Progressive Hunter Badge: 3|"
+   },
+   {
+      "name":"Kill 34 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 3"
+      ],
+      "requires":"|Progressive Hunter Badge: 3|"
+   },
+   {
+      "name":"Kill 35 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 3"
+      ],
+      "requires":"|Progressive Hunter Badge: 3|"
+   },
+   {
+      "name":"Kill 36 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 3"
+      ],
+      "requires":"|Progressive Hunter Badge: 3|"
+   },
+   {
+      "name":"Kill 37 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 3"
+      ],
+      "requires":"|Progressive Hunter Badge: 3|"
+   },
+   {
+      "name":"Kill 38 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 3"
+      ],
+      "requires":"|Progressive Hunter Badge: 3|"
+   },
+   {
+      "name":"Kill 39 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 3"
+      ],
+      "requires":"|Progressive Hunter Badge: 3|"
+   },
+   {
+      "name":"Kill 40 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 4"
+      ],
+      "requires":"|Progressive Hunter Badge: 4|"
+   },
+   {
+      "name":"Kill 41 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 4"
+      ],
+      "requires":"|Progressive Hunter Badge: 4|"
+   },
+   {
+      "name":"Kill 42 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 4"
+      ],
+      "requires":"|Progressive Hunter Badge: 4|"
+   },
+   {
+      "name":"Kill 43 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 4"
+      ],
+      "requires":"|Progressive Hunter Badge: 4|"
+   },
+   {
+      "name":"Kill 44 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 4"
+      ],
+      "requires":"|Progressive Hunter Badge: 4|"
+   },
+   {
+      "name":"Kill 45 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 4"
+      ],
+      "requires":"|Progressive Hunter Badge: 4|"
+   },
+   {
+      "name":"Kill 46 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 4"
+      ],
+      "requires":"|Progressive Hunter Badge: 4|"
+   },
+   {
+      "name":"Kill 47 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 4"
+      ],
+      "requires":"|Progressive Hunter Badge: 4|"
+   },
+   {
+      "name":"Kill 48 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 4"
+      ],
+      "requires":"|Progressive Hunter Badge: 4|"
+   },
+   {
+      "name":"Kill 49 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 4"
+      ],
+      "requires":"|Progressive Hunter Badge: 4|"
+   },
+   {
+      "name":"Kill 50 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 5"
+      ],
+      "requires":"|Progressive Hunter Badge: 5|"
+   },
+   {
+      "name":"Kill 51 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 5"
+      ],
+      "requires":"|Progressive Hunter Badge: 5|"
+   },
+   {
+      "name":"Kill 52 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 5"
+      ],
+      "requires":"|Progressive Hunter Badge: 5|"
+   },
+   {
+      "name":"Kill 53 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 5"
+      ],
+      "requires":"|Progressive Hunter Badge: 5|"
+   },
+   {
+      "name":"Kill 54 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 5"
+      ],
+      "requires":"|Progressive Hunter Badge: 5|"
+   },
+   {
+      "name":"Kill 55 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 5"
+      ],
+      "requires":"|Progressive Hunter Badge: 5|"
+   },
+   {
+      "name":"Kill 56 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 5"
+      ],
+      "requires":"|Progressive Hunter Badge: 5|"
+   },
+   {
+      "name":"Kill 57 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 5"
+      ],
+      "requires":"|Progressive Hunter Badge: 5|"
+   },
+   {
+      "name":"Kill 58 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 5"
+      ],
+      "requires":"|Progressive Hunter Badge: 5|"
+   },
+   {
+      "name":"Kill 59 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 5"
+      ],
+      "requires":"|Progressive Hunter Badge: 5|"
+   },
+   {
+      "name":"Kill 60 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 6"
+      ],
+      "requires":"|Progressive Hunter Badge: 6|"
+   },
+   {
+      "name":"Kill 61 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 6"
+      ],
+      "requires":"|Progressive Hunter Badge: 6|"
+   },
+   {
+      "name":"Kill 62 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 6"
+      ],
+      "requires":"|Progressive Hunter Badge: 6|"
+   },
+   {
+      "name":"Kill 63 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 6"
+      ],
+      "requires":"|Progressive Hunter Badge: 6|"
+   },
+   {
+      "name":"Kill 64 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 6"
+      ],
+      "requires":"|Progressive Hunter Badge: 6|"
+   },
+   {
+      "name":"Kill 65 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 6"
+      ],
+      "requires":"|Progressive Hunter Badge: 6|"
+   },
+   {
+      "name":"Kill 66 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 6"
+      ],
+      "requires":"|Progressive Hunter Badge: 6|"
+   },
+   {
+      "name":"Kill 67 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 6"
+      ],
+      "requires":"|Progressive Hunter Badge: 6|"
+   },
+   {
+      "name":"Kill 68 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 6"
+      ],
+      "requires":"|Progressive Hunter Badge: 6|"
+   },
+   {
+      "name":"Kill 69 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 6"
+      ],
+      "requires":"|Progressive Hunter Badge: 6|"
+   },
+   {
+      "name":"Kill 70 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 7"
+      ],
+      "requires":"|Progressive Hunter Badge: 7|"
+   },
+   {
+      "name":"Kill 71 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 7"
+      ],
+      "requires":"|Progressive Hunter Badge: 7|"
+   },
+   {
+      "name":"Kill 72 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 7"
+      ],
+      "requires":"|Progressive Hunter Badge: 7|"
+   },
+   {
+      "name":"Kill 73 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 7"
+      ],
+      "requires":"|Progressive Hunter Badge: 7|"
+   },
+   {
+      "name":"Kill 74 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 7"
+      ],
+      "requires":"|Progressive Hunter Badge: 7|"
+   },
+   {
+      "name":"Kill 75 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 7"
+      ],
+      "requires":"|Progressive Hunter Badge: 7|"
+   },
+   {
+      "name":"Kill 76 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 7"
+      ],
+      "requires":"|Progressive Hunter Badge: 7|"
+   },
+   {
+      "name":"Kill 77 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 7"
+      ],
+      "requires":"|Progressive Hunter Badge: 7|"
+   },
+   {
+      "name":"Kill 78 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 7"
+      ],
+      "requires":"|Progressive Hunter Badge: 7|"
+   },
+   {
+      "name":"Kill 79 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 7"
+      ],
+      "requires":"|Progressive Hunter Badge: 7|"
+   },
+   {
+      "name":"Kill 80 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 8"
+      ],
+      "requires":"|Progressive Hunter Badge: 8|"
+   },
+   {
+      "name":"Kill 81 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 8"
+      ],
+      "requires":"|Progressive Hunter Badge: 8|"
+   },
+   {
+      "name":"Kill 82 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 8"
+      ],
+      "requires":"|Progressive Hunter Badge: 8|"
+   },
+   {
+      "name":"Kill 83 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 8"
+      ],
+      "requires":"|Progressive Hunter Badge: 8|"
+   },
+   {
+      "name":"Kill 84 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 8"
+      ],
+      "requires":"|Progressive Hunter Badge: 8|"
+   },
+   {
+      "name":"Kill 85 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 8"
+      ],
+      "requires":"|Progressive Hunter Badge: 8|"
+   },
+   {
+      "name":"Kill 86 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 8"
+      ],
+      "requires":"|Progressive Hunter Badge: 8|"
+   },
+   {
+      "name":"Kill 87 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 8"
+      ],
+      "requires":"|Progressive Hunter Badge: 8|"
+   },
+   {
+      "name":"Kill 88 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 8"
+      ],
+      "requires":"|Progressive Hunter Badge: 8|"
+   },
+   {
+      "name":"Kill 89 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 8"
+      ],
+      "requires":"|Progressive Hunter Badge: 8|"
+   },
+   {
+      "name":"Kill 90 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 9"
+      ],
+      "requires":"|Progressive Hunter Badge: 9|"
+   },
+   {
+      "name":"Kill 91 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 9"
+      ],
+      "requires":"|Progressive Hunter Badge: 9|"
+   },
+   {
+      "name":"Kill 92 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 9"
+      ],
+      "requires":"|Progressive Hunter Badge: 9|"
+   },
+   {
+      "name":"Kill 93 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 9"
+      ],
+      "requires":"|Progressive Hunter Badge: 9|"
+   },
+   {
+      "name":"Kill 94 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 9"
+      ],
+      "requires":"|Progressive Hunter Badge: 9|"
+   },
+   {
+      "name":"Kill 95 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 9"
+      ],
+      "requires":"|Progressive Hunter Badge: 9|"
+   },
+   {
+      "name":"Kill 96 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 9"
+      ],
+      "requires":"|Progressive Hunter Badge: 9|"
+   },
+   {
+      "name":"Kill 97 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 9"
+      ],
+      "requires":"|Progressive Hunter Badge: 9|"
+   },
+   {
+      "name":"Kill 98 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 9"
+      ],
+      "requires":"|Progressive Hunter Badge: 9|"
+   },
+   {
+      "name":"Kill 99 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 9"
+      ],
+      "requires":"|Progressive Hunter Badge: 9|"
+   },
+   {
+      "name":"Kill 100 Monsters",
+      "region":"",
+      "category":[
+         "Kill Count Quests - Lvl 9"
+      ],
+      "requires":"|Progressive Hunter Badge: 9|",
+      "place_item":[
+         "Hunter's Trophy"
+      ]
+   },
+   {
+      "name":"The Great Glitch Game (1/3) - Complete",
+      "category":[
+         "Main Quests - The Great Glitch Game"
+      ],
+      "requires":"|Glitch 101| AND |Glitch 102| AND |Glitch 103|",
+      "place_item":[
+         "The Great Glitch Game (2/3)"
+      ]
+   },
+   {
+      "name":"The Great Glitch Game (1/3) - Completion Reward",
+      "category":[
+         "Main Quests - The Great Glitch Game"
+      ],
+      "requires":"|Glitch 101| AND |Glitch 102| AND |Glitch 103|"
+   },
+   {
+      "name":"The Great Glitch Game (2/3) - Complete",
+      "category":[
+         "Main Quests - The Great Glitch Game"
+      ],
+      "requires":"|Glitch 201| AND |Glitch 202| AND |Glitch 203| AND |The Great Glitch Game (2/3)|",
+      "place_item":[
+         "The Great Glitch Game (3/3)"
+      ]
+   },
+   {
+      "name":"The Great Glitch Game (2/3) - Completion Reward",
+      "category":[
+         "Main Quests - The Great Glitch Game"
+      ],
+      "requires":"|Glitch 201| AND |Glitch 202| AND |Glitch 203| AND |The Great Glitch Game (2/3)|"
+   },
+   {
+      "name":"The Great Glitch Game (3/3) - Complete",
+      "category":[
+         "Main Quests - The Great Glitch Game"
+      ],
+      "requires":"|Glitch 301| AND |Glitch 302| AND |Glitch 303| AND |The Great Glitch Game (3/3)|",
+      "place_item":[
+         "Adventurer's Token"
+      ]
+   },
+   {
+      "name":"The Great Glitch Game (3/3) - Completion Reward",
+      "category":[
+         "Main Quests - The Great Glitch Game"
+      ],
+      "requires":"|Glitch 301| AND |Glitch 302| AND |Glitch 303| AND |The Great Glitch Game (3/3)|"
+   },
+   {
+      "name":"Capturing the Quick - Complete",
+      "region":"",
+      "category":[
+         "Main Quests - Capturing the Quick"
+      ],
+      "requires":"|Glitch 201|",
+      "place_item":[
+         "Adventurer's Token"
+      ]
+   },
+   {
+      "name":"Capturing the Quick - Completion Reward",
+      "region":"",
+      "category":[
+         "Main Quests - Capturing the Quick"
+      ],
+      "requires":"|Glitch 201|"
+   },
+   {
+      "name":"Imitation and Flattery - Complete",
+      "category":[
+         "Main Quests - Imitation and Flattery"
+      ],
+      "requires":"|Glitch 101|",
+      "place_item":[
+         "Adventurer's Token"
+      ]
+   },
+   {
+      "name":"Imitation and Flattery - Completion Reward",
+      "category":[
+         "Main Quests - Imitation and Flattery"
+      ],
+      "requires":"|Glitch 101|"
+   },
+   {
+      "name":"Looking Through Glitches - Complete",
+      "category":[
+         "Main Quests - Looking Through Glitches"
+      ],
+      "requires":"|Glitch 302|",
+      "place_item":[
+         "Adventurer's Token"
+      ]
+   },
+   {
+      "name":"Looking Through Glitches - Completion Reward",
+      "category":[
+         "Main Quests - Looking Through Glitches"
+      ],
+      "requires":"|Glitch 302|"
+   },
+   {
+      "name":"Grab the Horns! - Complete",
+      "category":[
+         "Main Quests - Grab the Horns!"
+      ],
+      "requires":"|Glitch 303|",
+      "place_item":[
+         "Adventurer's Token"
+      ]
+   },
+   {
+      "name":"Grab the Horns! - Completion Reward",
+      "category":[
+         "Main Quests - Grab the Horns!"
+      ],
+      "requires":"|Glitch 303|"
+   },
+   {
+      "name":"Tired? Get a Glitch! - Complete",
+      "category":[
+         "Main Quests - Tired? Get a Glitch!"
+      ],
+      "requires":"|Glitch 301| AND |Glitch 102| AND |Glitch 103| AND |Glitch 203|",
+      "place_item":[
+         "Adventurer's Token"
+      ]
+   },
+   {
+      "name":"Tired? Get a Glitch! - Completion Reward",
+      "category":[
+         "Main Quests - Tired? Get a Glitch!"
+      ],
+      "requires":"|Glitch 301| AND |Glitch 102| AND |Glitch 103| AND |Glitch 203|"
+   },
+   {
+      "name":"Warning! Code 415 - Complete",
+      "category":[
+         "Main Quests - Warning! Code 415"
+      ],
+      "requires":"|Glitch 202|",
+      "place_item":[
+         "Adventurer's Token"
+      ]
+   },
+   {
+      "name":"Warning! Code 415 - Completion Reward",
+      "category":[
+         "Main Quests - Warning! Code 415"
+      ],
+      "requires":"|Glitch 202|"
+   },
+   {
+      "name":"Victory!",
+      "victory":true,
+      "category":[
+         "0 - GOAL - Victory!"
+      ],
+      "requires":"|Adventurer's Token: 7| AND |Hunter's Trophy|"
+   }
+]
